@@ -45,7 +45,7 @@ import {
 } from "recharts";
 import "./index.css";
 
-const API = "https://van-saved-fonts-reaches.trycloudflare.com";
+const API = "https://plan-gamma-population-mixture.trycloudflare.com";
 
 const NAV = [
   { id: "overview", label: "Overview", icon: LayoutDashboard },
