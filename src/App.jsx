@@ -45,7 +45,7 @@ import {
 } from "recharts";
 import "./index.css";
 
-const API = "https://plan-gamma-population-mixture.trycloudflare.com";
+const API = "https://band-reporter-momentum-hawk.trycloudflare.com";
 
 const NAV = [
   { id: "overview", label: "Overview", icon: LayoutDashboard },
