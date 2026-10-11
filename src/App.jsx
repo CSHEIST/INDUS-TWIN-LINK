@@ -45,7 +45,7 @@ import {
 } from "recharts";
 import "./index.css";
 
-const API = "https://band-reporter-momentum-hawk.trycloudflare.com";
+const API = "https://speakers-cultural-dover-cadillac.trycloudflare.com";
 
 const NAV = [
   { id: "overview", label: "Overview", icon: LayoutDashboard },
